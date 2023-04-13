@@ -1,6 +1,6 @@
 # GT Team Avalanche 1991
 
-## Commit Date : 2023.01.28
+## Date : 2023.01.28
 
 <img src=photo_001.jpg width=640></img>
 
@@ -28,6 +28,7 @@
 | Rear Derailleur  | Shimano               | Deore XT, 9s                           | Black x Silver |
 | Rim              | Mavic                 | Crossland, 599                         | Grey x Silver |
 | Hub              | Mavic                 | Crossland,                             | Grey |
+| Skewer           | KORE                  | -                                      | Black |
 | Tire             | Vittoria              | Goma, 26x2.25                          | Black |
 
 ## History
