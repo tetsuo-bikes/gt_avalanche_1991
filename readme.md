@@ -1,8 +1,9 @@
 # GT Team Avalanche 1991
 
-## Date : 2023.04.13
+## Date : 2023.12.29
 
-<img src=photo_001.jpg width=640></img>
+<img src=20231229_120302.png width=640></img>
+<img src=20240106_162408.png width=640></img>
 
 | Parts  | Maker | Name | Color|
 |:-------|:------|:-----|:-----|
@@ -21,7 +22,7 @@
 | Seat Clamp       | Paul                  | Quick release seatpost collar, 30.0mm  | Purple |
 | Saddle Bag Mount | Hobo pieces           | The Restuvus                           | Purple |
 | Saddle Bag       | Bags by birds         | Piccolo                                | Forest green |
-| Crank            | Middleburn            | Unkown, 170mm                          | Polish |
+| Crank            | Rockwerks             | Unkown, 175mm                          | Polish x Red spider |
 | Crank spider     | Middleburn            | RS7 square taper triple spiders, PCD94 | Silver |
 | Chain ring       | Stridsland            | 94 bcd chainring, PCD94, 38T           | Purple |
 | Pedal            | MKS                   | XC-III                                 | Black x Silver |
@@ -33,6 +34,8 @@
 
 ## History
 
+* 2023.04.13
+    * <img src=photo_001.jpg width=640></img>
 * 2022.03.27
     * <img src=photo_000.jpg width=640></img>
 
