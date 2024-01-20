@@ -29,7 +29,7 @@
 | Rear Derailleur  | Shimano               | Deore XT, 9s                           | Black x Silver |
 | Rim              | Mavic                 | Crossland, 599                         | Grey x Silver |
 | Hub              | Mavic                 | Crossland,                             | Grey |
-| Skewer           | KORE                  | -                                      | Purple |
+| Skewer           | KORE                  | 100x135                                | Silver x Red |
 | Tire             | Vittoria              | Goma, 26x2.25                          | Black |
 
 ## History
