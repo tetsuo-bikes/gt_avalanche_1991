@@ -2,8 +2,8 @@
 
 ## Date : 2023.12.29
 
-<img src=./img/gt_team_avalanche_20231229_000.png width=640></img>
-<img src=./img/gt_team_avalanche_20240106_000.png width=640></img>
+<img src=./img/gt_team_avalanche_1991_20231229_000.png width=640></img>
+<img src=./img/gt_team_avalanche_1991_20240106_000.png width=640></img>
 
 | Parts  | Maker | Name | Color|
 |:-------|:------|:-----|:-----|
@@ -35,9 +35,9 @@
 ## History
 
 * 2023.04.13
-    * <img src=./img/gt_team_avalanche_20230413_000.jpg width=640></img>
+    * <img src=./img/gt_team_avalanche_1991_20230413_000.jpg width=640></img>
 * 2022.03.27
-    * <img src=./img/gt_team_avalanche_20220327_000.jpg width=640></img>
+    * <img src=./img/gt_team_avalanche_1991_20220327_000.jpg width=640></img>
 
 
 
